@@ -1,11 +1,11 @@
-import AdviseCard from './components/AdviseCard'
+import AdviceCard from './components/AdviceCard'
 
 function App() {
   return (
     <>
       <main className="bg-drkBlue">
         <div className="container mx-auto flex flex-col items-center justify-center p-8 w-full max-w-[1440px] min-h-screen">
-          <AdviseCard />
+          <AdviceCard />
         </div>
       </main>
       <footer className="text-center text-xs">
