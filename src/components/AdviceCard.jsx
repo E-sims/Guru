@@ -27,7 +27,7 @@ const AdviceCard = () => {
           &quot;Advice&quot;
         </p>
         <p className="text-cyan quote-text text-center font-extrabold max-w-[444px]">
-          &quot;Loading...&quot;
+          &quot;Loading...Guru is thinking...&quot;
         </p>
         <div className="flex items-center justify-center mt-5 mb-10 gap-x-4">
           <span className="w-[122px] md:w-[196px] h-[1px] bg-cyan rounded-full z-10"></span>
